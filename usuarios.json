@@ -1,32 +1,20 @@
 [
     {
         "ID": 1,
-        "Nombre": "thomas",
-        "Correo": "tommy",
-        "Tel\u00e9fono": "222"
+        "Nombre": "Thomas Correa",
+        "Correo": "tommy16cc@gmail.com",
+        "Teléfono": "3024043608"
     },
     {
         "ID": 2,
-        "Nombre": "man",
-        "Correo": "dhdhd",
-        "Tel\u00e9fono": "555"
+        "Nombre": "Jeremias Cataño",
+        "Correo": "jere_cata_10@gmail.com",
+        "Teléfono": "3014969977"
     },
     {
         "ID": 3,
-        "Nombre": "ik",
-        "Correo": "jj",
-        "Tel\u00e9fono": "55"
-    },
-    {
-        "ID": 4,
-        "Nombre": "hgv",
-        "Correo": "jhv",
-        "Tel\u00e9fono": "55"
-    },
-    {
-        "ID": 5,
-        "Nombre": "gufut",
-        "Correo": "hvjgh4",
-        "Tel\u00e9fono": "55k"
+        "Nombre": "Isaac Cataño",
+        "Correo": "isaacelmejor@gmail.com",
+        "Teléfono": "3216549877"
     }
 ]
