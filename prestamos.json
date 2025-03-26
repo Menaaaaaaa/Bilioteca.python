@@ -1,0 +1,26 @@
+[
+    {
+        "usuario_id": 1,
+        "titulo": "El Arte de Amar",
+        "fecha_prestamo": "2025-03-25",
+        "estado": "Activo"
+    },
+    {
+        "usuario_id": 1,
+        "titulo": "La Ciudad De Dios",
+        "fecha_prestamo": "2025-03-25",
+        "estado": "Activo"
+    },
+    {
+        "usuario_id": 3,
+        "titulo": "las confesiones",
+        "fecha_prestamo": "2025-03-25",
+        "estado": "Activo"
+    },
+    {
+        "usuario_id": 3,
+        "titulo": "germania",
+        "fecha_prestamo": "2025-03-25",
+        "estado": "Activo"
+    }
+]
